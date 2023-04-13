@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "text": "Eleanor's Immunization Visit",
+      "day": "May 13th at 1:30pm",
+      "reminder": true
+    },
+    {
+      "id": "2",
+      "text": "Dinner with Sunflower",
+      "day": "March 14th at 7:30pm",
+      "reminder": false
+    },
+    {
+      "id": "3",
+      "text": "Book club watch party",
+      "day": "March 17th at 8:30pm",
+      "reminder": false
+    },
+    {
+      "id": "4",
+      "text": "Metre repair",
+      "day": "Sometime in May (Maybe)",
+      "reminder": true
+    }
+  ]
+}
